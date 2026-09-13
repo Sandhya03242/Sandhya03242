@@ -1,46 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=1800&pause=1200&color=334155&background=E8F5E9&center=true&vCenter=true&width=500&height=90&lines=Hello+%F0%9F%91%8B" alt="Hello animation" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi,%20I'm%20Sandhya%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# Hi, I'm Sandhya S
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Junior+AI+Engineer;Building+with+LLMs+%7C+RAG+%7C+AI+Agents;Turning+ideas+into+real+AI+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-### Junior AI Engineer
+</div>
 
-Computer Science Engineering graduate currently working in AI Engineering and building practical **AI & Generative AI applications**.
+---
 
-I work with **LLMs, RAG, AI Agents, NLP, Computer Vision and backend AI systems**, while continuously learning and expanding my skills in modern AI technologies.
+### 👋 About Me
 
-<br/>
+Computer Science Engineering graduate currently working in AI Engineering, building practical **AI & Generative AI applications**.
 
-## Tech Stack
+I work with **LLMs, RAG, AI Agents, NLP, Computer Vision, and backend AI systems**, while continuously learning and expanding my skills in modern AI technologies.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,mysql,git,github" />
-</p>
+- 🔭 **Currently working on:** *(add your current project — e.g. "an AI agent that automates X")*
+- 🌱 **Currently learning:** *(e.g. LangGraph, fine-tuning, MLOps)*
+- 💬 **Ask me about:** LLMs, RAG pipelines, AI agents, Python
+- 📫 **Reach me:** *(email or preferred contact)*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain" />
-</p>
+---
 
-**AI:** LLMs · Generative AI · RAG · AI Agents · Transformers · Hugging Face
+### 🛠️ Tech Stack
 
-**Frameworks:** LangChain · LangGraph · FastAPI · PyTorch · TensorFlow
+<div align="center">
 
-**Data & ML:** NLP · Computer Vision · Machine Learning · SQL
+<img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,pytorch,docker,aws,git,github,vscode" alt="tech stack icons" />
 
-**Infrastructure:** Docker · AWS · Git · GitHub
+</div>
 
-<br/>
+<br>
 
-## Connect
+| Category | Skills |
+|---|---|
+| **AI** | LLMs · Generative AI · RAG · AI Agents · Transformers · Hugging Face |
+| **Frameworks** | LangChain · LangGraph · FastAPI · PyTorch · TensorFlow |
+| **Data & ML** | NLP · Computer Vision · Machine Learning · SQL |
+| **Infrastructure** | Docker · AWS · Git · GitHub |
 
-<p align="center">
-  <a href="https://sandhya03242.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sandhya-s-610350254">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[Project Name](https://github.com/Sandhya03242/your-repo)**
+One-line description of what it does and what makes it interesting.
+`Python` `LangChain` `FastAPI`
+
+</td>
+<td width="50%">
+
+**[Project Name](https://github.com/Sandhya03242/your-repo)**
+One-line description of what it does and what makes it interesting.
+`RAG` `Hugging Face` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Project Name](https://github.com/Sandhya03242/your-repo)**
+One-line description of what it does and what makes it interesting.
+`AI Agents` `AWS`
+
+</td>
+<td width="50%">
+
+**[Project Name](https://github.com/Sandhya03242/your-repo)**
+One-line description of what it does and what makes it interesting.
+`Computer Vision` `PyTorch`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sandhya03242&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhya03242&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya03242&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+### 🔗 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6c5ce7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=100&section=footer)
 
 </div>
