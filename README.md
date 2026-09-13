@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-Computer Science Engineering graduate currently working as a **Junior AI Engineer**, building practical **AI & Generative AI applications**.
+Computer Science Engineering graduate **working as a Junior AI Engineer**, focused on building practical **AI & Generative AI applications**.
 
 I work with **LLMs, RAG, AI Agents, NLP, Computer Vision, and backend AI systems**, while continuously learning and exploring modern AI technologies.
 
@@ -54,5 +54,6 @@ I work with **LLMs, RAG, AI Agents, NLP, Computer Vision, and backend AI systems
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
