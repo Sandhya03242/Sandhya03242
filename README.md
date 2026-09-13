@@ -1,20 +1,53 @@
-<h1 align="center">Hi, I'm Sandhya S 👋</h1>
+<h1 align="center">Sandhya S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Junior+AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+FastAPI+%7C+Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=21&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Junior+AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Building+Practical+AI+Systems" />
 </p>
+
+<p align="center">
+  <a href="https://sandhya03242.github.io/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/sandhya-s-610350254">LinkedIn</a>
+</p>
+
+---
 
 ## About
 
-Computer Science Engineering graduate and Junior AI Engineer focused on building practical AI and Generative AI applications.
+Computer Science Engineering graduate and Junior AI Engineer focused on building practical **AI and Generative AI systems**.
 
-I work with **LLMs, RAG, AI Agents, NLP, Computer Vision, and backend AI systems.**
+My work spans **LLM applications, RAG, AI agents, NLP, computer vision, and backend engineering**, with a focus on turning AI capabilities into reliable applications.
 
-## Tech
+## Technical Stack
 
-**Python · PyTorch · TensorFlow · Transformers · Hugging Face · LangChain · LangGraph · FastAPI · RAG · LLMs · AI Agents · Pinecone · FAISS · Docker · SQL · Git**
+**Languages**
+Python · SQL
 
-## Connect
+**AI / ML**
+PyTorch · TensorFlow · Scikit-learn · NLP · Computer Vision
 
-🌐 [Portfolio](https://sandhya03242.github.io/)
-💼 [LinkedIn](https://linkedin.com/in/sandhya-s-610350254)
+**Generative AI**
+LLMs · RAG · AI Agents · Transformers · Hugging Face · LangChain · LangGraph · PEFT
+
+**Backend & Infrastructure**
+FastAPI · Docker · AWS · REST APIs
+
+**Data & Vector Search**
+Pandas · NumPy · Pinecone · FAISS · Chroma
+
+**Tools**
+Git · GitHub · Streamlit · Gradio · MCP
+
+## Featured Work
+
+**OmniSight** — Multimodal UI Self-Healing & RPA Agent
+**Music Recommender System** — NLP-based content recommendation
+**VisioGuide** — Computer Vision wearable assistance system
+
+---
+
+<p align="center">
+  <a href="https://sandhya03242.github.io/">Portfolio ↗</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sandhya-s-610350254">LinkedIn ↗</a>
+</p>
