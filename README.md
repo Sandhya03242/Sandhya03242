@@ -1,53 +1,76 @@
-<h1 align="center">Sandhya S</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=21&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Junior+AI+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Building+Practical+AI+Systems" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1800&pause=1000&color=A7F3D0&background=0D1117&center=true&vCenter=true&width=500&height=80&lines=Hello+%F0%9F%91%8B" alt="Hello animation" />
 
-<p align="center">
-  <a href="https://sandhya03242.github.io/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/sandhya-s-610350254">LinkedIn</a>
-</p>
+# Hi, I'm Sandhya S
+
+### Junior AI Engineer
+
+Building practical **AI and Generative AI systems** with a focus on LLM applications, RAG and intelligent agents.
+
+[Portfolio](https://sandhya03242.github.io/) · [LinkedIn](https://linkedin.com/in/sandhya-s-610350254)
+
+</div>
 
 ---
 
 ## About
 
-Computer Science Engineering graduate and Junior AI Engineer focused on building practical **AI and Generative AI systems**.
+Computer Science Engineering graduate and Junior AI Engineer focused on building practical AI applications.
 
-My work spans **LLM applications, RAG, AI agents, NLP, computer vision, and backend engineering**, with a focus on turning AI capabilities into reliable applications.
-
-## Technical Stack
-
-**Languages**
-Python · SQL
-
-**AI / ML**
-PyTorch · TensorFlow · Scikit-learn · NLP · Computer Vision
-
-**Generative AI**
-LLMs · RAG · AI Agents · Transformers · Hugging Face · LangChain · LangGraph · PEFT
-
-**Backend & Infrastructure**
-FastAPI · Docker · AWS · REST APIs
-
-**Data & Vector Search**
-Pandas · NumPy · Pinecone · FAISS · Chroma
-
-**Tools**
-Git · GitHub · Streamlit · Gradio · MCP
-
-## Featured Work
-
-**OmniSight** — Multimodal UI Self-Healing & RPA Agent
-**Music Recommender System** — NLP-based content recommendation
-**VisioGuide** — Computer Vision wearable assistance system
+Experienced in **Generative AI, LLMs, RAG, AI Agents, NLP, Computer Vision and backend engineering**.
 
 ---
 
-<p align="center">
-  <a href="https://sandhya03242.github.io/">Portfolio ↗</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sandhya-s-610350254">LinkedIn ↗</a>
-</p>
+## Featured Work
+
+### OmniSight
+
+**Multimodal UI Self-Healing & RPA Agent**
+
+Detects web UI issues using vision-language models and automatically generates, applies and verifies fixes.
+
+**Python · Qwen VLM · Playwright · LangGraph · FastAPI · React**
+
+[View Project](https://github.com/Sandhya03242/OmniSight_Multimodal_UI_SelfHealing_RPA-Agent)
+
+---
+
+### Music Recommender System
+
+**NLP-Based Recommendation System**
+
+Recommends similar songs using NLP, TF-IDF and cosine similarity with Spotify integration.
+
+**Python · NLP · TF-IDF · Scikit-learn · Spotify API · Streamlit**
+
+[View Project](https://github.com/Sandhya03242/-Music_Recommender_System)
+
+---
+
+### VisioGuide
+
+**Computer Vision Assistance System**
+
+A wearable vision system that detects surrounding objects and provides real-time audio feedback.
+
+**Python · OpenCV · TensorFlow Lite · Pyttsx3 · Raspberry Pi**
+
+[View Project](https://github.com/Sandhya03242/Visioguide)
+
+---
+
+## Core Skills
+
+**Python · LLMs · Generative AI · RAG · AI Agents · Transformers · LangChain · LangGraph · FastAPI · PyTorch · NLP · Computer Vision · Docker · SQL**
+
+---
+
+<div align="center">
+
+**Let's build intelligent systems.**
+
+[Portfolio](https://sandhya03242.github.io/) · [LinkedIn](https://linkedin.com/in/sandhya-s-610350254)
+
+</div>
+
