@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-Computer Science Engineering graduate **working as a Junior AI Engineer**, focused on building practical **AI & Generative AI applications**.
+Computer Science Engineering graduate and **Junior AI Engineer**, focused on building practical **AI & Generative AI applications**.
 
 I work with **LLMs, RAG, AI Agents, NLP, Computer Vision, and backend AI systems**, while continuously learning and exploring modern AI technologies.
 
